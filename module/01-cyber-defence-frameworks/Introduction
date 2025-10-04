@@ -1,0 +1,44 @@
+# Module 1: Cyber Defence Frameworks
+
+This module introduces core defensive frameworks and models that security analysts use to understand, detect, and respond to cyber threats. It covers foundational theory, structured models, and practical investigations.
+
+---
+
+## 📚 Rooms in this Module
+
+1. [Junior Security Analyst Intro](01-cyber-defence-frameworks/01-junior-security-analyst-intro.md)  
+   *Intro to SOC roles, responsibilities, and workflows.*
+
+2. [Pyramid Of Pain](01-cyber-defence-frameworks/02-pyramid-of-pain.md)  
+   *Learn the value of indicators and their impact on adversaries.*
+
+3. [Cyber Kill Chain](01-cyber-defence-frameworks/03-cyber-kill-chain.md)  
+   *Understand intrusion stages and where to apply defensive controls.*
+
+4. [Unified Kill Chain](01-cyber-defence-frameworks/04-unified-kill-chain.md)  
+   *Modernized framework merging multiple attack models for enterprise defense.*
+
+5. [Diamond Model](01-cyber-defence-frameworks/05-diamond-model.md)  
+   *Framework for mapping adversary, capability, infrastructure, and victim.*
+
+6. [MITRE ATT&CK](01-cyber-defence-frameworks/06-mitre.md)  
+   *Comprehensive adversary behavior framework for detection engineering.*
+
+7. [Summit](01-cyber-defence-frameworks/07-summit.md)  
+   *Hands-on investigation practice using adversary indicators.*
+
+8. [Eviction](01-cyber-defence-frameworks/08-eviction.md)  
+   *Contain, eradicate, and validate eviction of adversaries from systems.*
+
+---
+
+## ✅ Module Summary
+
+- Defensive frameworks provide structured ways to understand attacks.  
+- Models like **Kill Chain** and **Unified Kill Chain** show intrusion stages.  
+- **Pyramid of Pain** emphasizes prioritizing detection of behaviors (TTPs).  
+- **Diamond Model** and **MITRE ATT&CK** support attribution and coverage.  
+- Hands-on rooms (Summit, Eviction) teach applying theory to practice.  
+
+**How I’ll apply this:**  
+I’ll use these frameworks to map detections in SIEM/EDR, prioritize behavior-based detection, and follow structured approaches during incident analysis and response.

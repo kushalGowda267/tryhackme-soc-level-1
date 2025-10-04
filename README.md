@@ -21,7 +21,7 @@ This repository documents my progress through the **TryHackMe — SOC Level 1** 
 
 | # | Module | Description | Status | Notes / Write-up |
 |---:|:-------|:-------------|:------:|:----------------|
-| 1 | **Cyber Defence Frameworks** | Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies. | ✅ Completed | [`modules/01-cyber-defence-frameworks.md`](module/01-cyber-defence-frameworks/01-junior-security-analyst-intro.md) |
+| 1 | **Cyber Defence Frameworks** | Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies. | ✅ Completed | [`modules/01-cyber-defence-frameworks.md`](module/01-cyber-defence-frameworks.md) |
 | 2 | **Cyber Threat Intelligence** | Learn about identifying and using available security knowledge to mitigate and manage potential adversary actions. | ✅ Completed (Threat Intelligence Tools) | [`modules/02-cyber-threat-intel.md`](modules/02-cyber-threat-intel.md) |
 | 3 | **Network Security and Traffic Analysis** | Understand the core concepts of Network Security and Traffic Analysis to spot and probe network anomalies using industry tools and techniques. | ⬜ Not started | [`modules/03-network-traffic-analysis.md`](modules/03-network-traffic-analysis.md) |
 | 4 | **Endpoint Security Monitoring** | Monitor activity on workstations to detect and respond to adversaries’ actions. | ⬜ Not started | [`modules/04-endpoint-security-monitoring.md`](modules/04-endpoint-security-monitoring.md) |
